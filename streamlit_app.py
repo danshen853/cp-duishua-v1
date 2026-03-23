@@ -4205,7 +4205,7 @@ class WashTradeDetector:
 # ==================== 主函数 ====================
 def main():
     """主函数"""
-    st.title("🎯 🎈智能对刷检测系统🎈")
+    st.title("🎯 🎈智能对刷检测系统 (v1-fasdffasdfa)🎈")
     st.markdown("---")
     
     with st.sidebar:
